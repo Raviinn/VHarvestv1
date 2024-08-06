@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0297698a129f4264f81345a38a0153b2, type: 3}
+  m_Name: Onion
+  m_EditorClassIdentifier: 
+  plantName: Onion
+  plantstages:
+  - {fileID: 1555944940, guid: 6a69b962b956f42428043d3d9ad84d9e, type: 3}
+  - {fileID: 733507302, guid: 6a69b962b956f42428043d3d9ad84d9e, type: 3}
+  - {fileID: 1159361043, guid: 6a69b962b956f42428043d3d9ad84d9e, type: 3}
+  - {fileID: 920190438, guid: 6a69b962b956f42428043d3d9ad84d9e, type: 3}
+  - {fileID: 232176105, guid: 6a69b962b956f42428043d3d9ad84d9e, type: 3}
+  - {fileID: -1546582647, guid: 6a69b962b956f42428043d3d9ad84d9e, type: 3}
+  time: 6
+  buyPrice: 20
+  sellPrice: 40
+  icon: {fileID: 21300000, guid: 92469e8a4ee223f42b2ebf50cde79308, type: 3}
+  growdaysofPlant: 3
+  plantMarker: 5

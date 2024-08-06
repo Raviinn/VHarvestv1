@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0297698a129f4264f81345a38a0153b2, type: 3}
+  m_Name: Squash
+  m_EditorClassIdentifier: 
+  plantName: Squash
+  plantstages:
+  - {fileID: 1359162014, guid: 5377dc250fb90a740b6fc6971bde62d7, type: 3}
+  - {fileID: 967874114, guid: 5377dc250fb90a740b6fc6971bde62d7, type: 3}
+  - {fileID: -1357580193, guid: 5377dc250fb90a740b6fc6971bde62d7, type: 3}
+  - {fileID: 2096898352, guid: 5377dc250fb90a740b6fc6971bde62d7, type: 3}
+  - {fileID: -714741714, guid: 5377dc250fb90a740b6fc6971bde62d7, type: 3}
+  - {fileID: 950373277, guid: 5377dc250fb90a740b6fc6971bde62d7, type: 3}
+  time: 0
+  buyPrice: 50
+  sellPrice: 75
+  icon: {fileID: 21300000, guid: a0b7b1a355321e34b8b4223b836492d1, type: 3}
+  growdaysofPlant: 1
+  plantMarker: 2
